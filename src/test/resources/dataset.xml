@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+ <beers beer_id="1" name="Headwater Pale Ale" brewery="1" style="10A" description="This is a description"/>
+  <beers beer_id="2" name="Headwater Pale Ale" brewery="1" style="10A" description="This is a description"/>
+  <beers beer_id="3" name="Headwater Pale Ale" brewery="1" style="10A" description="This is a description"/>
+  <beers beer_id="4" name="Headwater Pale Ale" brewery="1" style="10A" description="This is a description"/>
+  <beers beer_id="5" name="Headwater Pale Ale" brewery="1" style="10A" description="This is a description"/>
+</dataset>
